@@ -1,0 +1,21 @@
+Title: Sony Betamax Case Study
+Date: 2020-08-24 10:20
+Category: Case Study
+
+Case Study 1: Sony Betamax
+
+1.The Sony Betamax was a TV recorder and also a tape player. The Betamax was 36 pounds and comprised of many analog parts. The machine worked well and even had superior video quality when compared to its competitor the VHS. The Betamax was also engineered better than the VHS player and had a longer lifespan. Unfortunately for Sony, their competitor JVC also had a tape recorder and player named the VHS. Due to the VHS being cheaper and the VHS licensing to more companies, it eventually dominated the market and the Betamax was discontinued.
+
+2.In my opinion, the Sony Betamax was an immediate failure once the VHS entered the marketplace. The first point of failure was the price and weight. I will talk about them both at the same time because they are linked. My first source states that the weight and mass effected, “… everything from material costs to assembly time to shipping costs. So, at the low end of the market the VHS machines were cheaper than Sony’s Betamax.” The VHS was cheaper than the Betamax for a slight drop in quality, so the VHS sold better.
+The next point of failure for the Betamax was its advertising. The Betamax had better features than the VHS that could be advertised, but Sony didn’t explain them in their advertising. My second source states that Sony, “fell back on word-of-mouth advertising, and when it comes to that kind of promotion, as the saying goes, they got what they paid for.” The VHS’s superior advertising lead it to be the more popular item.
+
+3.In the long term, the “VHS” battles ended up helping consumers. The competition between Sony and JVC the VHS manufacture lead to better picture quality and lower prices. My first source also shows another long-term benefit in terms of citizen rights. The Betamax and VHS allowed people to record television shows instead of watching them at the time of broadcasting. The entertainment industry saw this as a copyright infringement and in 1979, “It all came to a head in a Supreme Court case -- Sony Corporation of America versus Universal City Studios -- where five justices allowed home recording.” This right is still enjoyed by consumers today.
+Another long-term result of the Betamax comes from my second source. The competition between VHS and Betamax resulted in, “… higher quality and the prices lower. It could also help establish Super VHS, which has a broadcast-quality picture, as the new standard home video format.” The VHS and Betamax competed and increased their picture quality which raised the bar for future quality. The Betamax quality has paved the way for the 4k quality we have today.
+
+4.The greatest piece of advice that I could give to Sony to make the Betamax successful would be to lower the quality, weight and cost of the Betamax. My first source sums up my advice by saying, “For any mass manufactured object, the winner is usually the one that is just good enough.” By reducing the weight and quality, shipping and sales would be easier, and the VHS would not have outpaced the Betamax. This advice would not solve all of the Betamaxes problems, but at least they would have a better chance in the VHS marketplace.
+By reducing the price Betamax would have picked up more business. Another reason Betamax lost is that most industries worked with VHS because it was cheaper. If the Betamax was cheaper than the VHS than the pornographic industry would have used it over VHS. My third source confirms this statement by saying, “That greater adoption and lower cost saw the pornography industry pick VHS as the format of choice for its home videos, which is largely considered the turning point that propelled VHS to victory.” It might be embarrassing but catering to the pornographic market will lead to a successful business. 
+
+5.Sources
+•http://www.engineerguy.com/failure/betamax.htm
+•http://www.technofileonline.com/texts/howbetadied.htm
+•https://www.theguardian.com/technology/2015/nov/10/betamax-dead-long-live-vhs-sony-end-prodution

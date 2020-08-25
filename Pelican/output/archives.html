@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="english">
+<head>
+        <title>Group 5 CMS</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta charset="utf-8" />
+        <!-- twitter card metadata -->
+        <!-- OG Tags -->
+        <!-- favicon -->
+        <link rel="icon" type="image/png" href="/images/it.png">
+        <!-- moment.js for date formatting -->
+        <script src="/theme/js/moment.js"></script>
+        <!-- css -->
+        <link rel="stylesheet" type="text/css" href="/theme/css/main.css" />
+		<script>
+			
+                /*! grunt-grunticon Stylesheet Loader - v2.1.2 | https://github.com/filamentgroup/grunticon | (c) 2015 Scott Jehl, Filament Group, Inc. | MIT license. */
+    
+    (function(e){function t(t,n,r,o){"use strict";function a(){for(var e,n=0;u.length>n;n++)u[n].href&&u[n].href.indexOf(t)>-1&&(e=!0);e?i.media=r||"all":setTimeout(a)}var i=e.document.createElement("link"),l=n||e.document.getElementsByTagName("script")[0],u=e.document.styleSheets;return i.rel="stylesheet",i.href=t,i.media="only x",i.onload=o||null,l.parentNode.insertBefore(i,l),a(),i}var n=function(r,o){"use strict";if(r&&3===r.length){var a=e.navigator,i=e.Image,l=!(!document.createElementNS||!document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")||e.opera&&-1===a.userAgent.indexOf("Chrome")||-1!==a.userAgent.indexOf("Series40")),u=new i;u.onerror=function(){n.method="png",n.href=r[2],t(r[2])},u.onload=function(){var e=1===u.width&&1===u.height,a=r[e&&l?0:e?1:2];n.method=e&&l?"svg":e?"datapng":"png",n.href=a,t(a,null,null,o)},u.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",document.documentElement.className+=" grunticon"}};n.loadCSS=t,e.grunticon=n})(this);(function(e,t){"use strict";var n=t.document,r="grunticon:",o=function(e){if(n.attachEvent?"complete"===n.readyState:"loading"!==n.readyState)e();else{var t=!1;n.addEventListener("readystatechange",function(){t||(t=!0,e())},!1)}},a=function(e){return t.document.querySelector('link[href$="'+e+'"]')},c=function(e){var t,n,o,a,c,i,u={};if(t=e.sheet,!t)return u;n=t.cssRules?t.cssRules:t.rules;for(var l=0;n.length>l;l++)o=n[l].cssText,a=r+n[l].selectorText,c=o.split(");")[0].match(/US\-ASCII\,([^"']+)/),c&&c[1]&&(i=decodeURIComponent(c[1]),u[a]=i);return u},i=function(e){var t,o,a;o="data-grunticon-embed";for(var c in e)if(a=c.slice(r.length),t=n.querySelectorAll(a+"["+o+"]"),t.length)for(var i=0;t.length>i;i++)t[i].innerHTML=e[c],t[i].style.backgroundImage="none",t[i].removeAttribute(o);return t},u=function(t){"svg"===e.method&&o(function(){i(c(a(e.href))),"function"==typeof t&&t()})};e.embedIcons=i,e.getCSS=a,e.getIcons=c,e.ready=o,e.svgLoadedCallback=u,e.embedSVG=u})(grunticon,this);
+                
+                grunticon(["/theme/css/icons.data.svg.css", "/theme/css/icons.data.png.css", "/theme/css/icons.fallback.css"]);
+            </script>
+        <noscript><link href="/theme/css/icons.fallback.css" rel="stylesheet"></noscript>
+        <!-- menu toggle javascript -->
+        <script type="text/javascript">
+            document.addEventListener("DOMContentLoaded", initMenu);
+            
+            function initMenu(){
+                var menu = document.getElementById("menu");
+                var menulink = document.getElementById("menu-link");
+                menulink.addEventListener("click", function toggleMenu(){
+                        window.event.preventDefault();
+                        menulink.classList.toggle('active');
+                        menu.classList.toggle('active');              
+                    });
+            };
+        </script>
+</head>
+<body>
+    <div role="banner" id="masthead">
+        <header>
+            <h1><a href="/">Group 5's Blog</a></h1>
+            <a href="#menu" id="menu-link">more stuff</a>
+            <nav id="menu">
+                <ul>
+                            <li><a href="/category/case-study.html">Case Study</a></li>
+                            <li><a href="/category/list.html">List</a></li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+        <div class="page" role="main">
+<div class="page-title">
+        <h1>archives</h1>
+    </div>
+<div class="articles">
+    <ol>
+        <li>
+            <article>
+                <footer>
+                        <p>
+                        <time datetime="2020-08-24 13:06:00+02:00">
+                            <script>document.write(moment('2020-08-24 13:06:00+02:00').format('LL'));</script>
+                        </time>
+                                in <a href="/category/list.html"><span class="category-tag">List</span></a>
+                    </p>
+                </footer>
+                <header>
+                    <a href="/top-3-games-that-toast-my-buns.html">
+                        <h2>Top 3 games that toast my buns</h2>
+                    </a>
+                </header>
+                <div class="summary"><p>Most people who are in the tech field tend to play video games in order to destress and relax. Sometimes, 
+that's just not possible because the game you enjoy is overrun by individuals who seem to be running around 
+with 2 working braincells, making the game unplayable for others. Here …</p> </div>
+                <div class="tags">
+                    <ul class="tags">
+                    </ul>
+                </div>
+                <a href="/top-3-games-that-toast-my-buns.html">
+                    <p class="readmore">Read more...</p>
+                </a>
+            </article>
+        </li>
+        <li>
+            <article>
+                <footer>
+                        <p>
+                        <time datetime="2020-08-24 12:40:00+02:00">
+                            <script>document.write(moment('2020-08-24 12:40:00+02:00').format('LL'));</script>
+                        </time>
+                    </p>
+                </footer>
+                <header>
+                    <a href="/best-computer-browser.html">
+                        <h2>Best Computer Browser</h2>
+                    </a>
+                </header>
+                <div class="summary"><p>There are many different internet browsers out there, and some are considered the best to use when looking for things on the internet.
+The best computer browser to use in this current information age is Google Chrome. 
+-It is used in millions of computers and can use addons to enhance …</p> </div>
+                <div class="tags">
+                    <ul class="tags">
+                    </ul>
+                </div>
+                <a href="/best-computer-browser.html">
+                    <p class="readmore">Read more...</p>
+                </a>
+            </article>
+        </li>
+        <li>
+            <article>
+                <footer>
+                        <p>
+                        <time datetime="2020-08-24 10:20:00+02:00">
+                            <script>document.write(moment('2020-08-24 10:20:00+02:00').format('LL'));</script>
+                        </time>
+                                in <a href="/category/case-study.html"><span class="category-tag">Case Study</span></a>
+                    </p>
+                </footer>
+                <header>
+                    <a href="/sony-betamax-case-study.html">
+                        <h2>Sony Betamax Case Study</h2>
+                    </a>
+                </header>
+                <div class="summary"><p>Case Study 1: Sony Betamax</p>
+<p>1.The Sony Betamax was a TV recorder and also a tape player. The Betamax was 36 pounds and comprised of many analog parts. The machine worked well and even had superior video quality when compared to its competitor the VHS. The Betamax was also …</p> </div>
+                <div class="tags">
+                    <ul class="tags">
+                    </ul>
+                </div>
+                <a href="/sony-betamax-case-study.html">
+                    <p class="readmore">Read more...</p>
+                </a>
+            </article>
+        </li>
+    </ol>
+</div>
+                <footer>
+                    <div class="icons">
+                    </div>
+                    <p>© <script>document.write(moment().format('YYYY'));</script> Trent Sexton, Rumman Abrar, Matthew Phillips</p>
+                </footer>
+        </div>
+</body>
+</html>
